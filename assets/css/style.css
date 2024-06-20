@@ -184,7 +184,7 @@ a {
     position: relative;
 
     background-color: #e0f7f6;
-    background: url(./assets/img/hero-left-img.png) #e0f7f6 -187.189px -71.417px /
+    background: #e0f7f6 url(/assets/img/hero-left-img.png) -187.189px -71.417px /
         157.903% 111.318% no-repeat;
     width: 576px;
     height: 631px;
